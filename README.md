@@ -18,6 +18,7 @@ An LSTM unit is composed of a cell and three gates: an input gate, an output gat
 
 LSTM networks are ideal for handling classification tasks involving time series data and are adept at overcoming issues like exploding and vanishing gradients, which are common pitfalls in training conventional RNNs.
 
+<img style=\"-webkit-user-select: none;margin: auto;\" src=\"RNN.png\" width=\"500\" height=\"250\">
 
 
 ## Features
