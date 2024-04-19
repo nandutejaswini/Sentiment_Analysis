@@ -29,4 +29,4 @@ A dense output layer with a sigmoid activation function to classify the input as
 Contributions to this project are welcome. Please fork the repository and submit a pull request with your proposed changes. For major changes or new features, please open an issue first to discuss what you would like to add or change.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License - see the LICENSE.txt file for details.
